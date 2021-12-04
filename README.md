@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MattiSaari
-- 👀 I’m interested in web development and analytics, computer scinece and digital marketing.
+- 👀 I’m interested in web development and analytics, computer science and digital marketing.
 - 🌱 I’m currently learning web development.
 - 💞️ I’m looking to collaborate on various web develoment and digital marketing projects.
 - 📫 mattisaari2011@gmail.com
